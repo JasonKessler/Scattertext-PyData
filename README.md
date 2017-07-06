@@ -6,6 +6,8 @@ A guide to using the python package [Scattertext](http://github.com/JasonKessler
 Check out the introductory presentation [here](https://github.com/JasonKessler/Scattertext-PyData/raw/master/PyData2017Kessler.pptx).
 
 # Using the notebooks
+The notebooks look best in Chrome.
+
 ## Slow but interactive way
 In order to use these notebooks, please execute the following commands, please clone this repo and run (in Python 3):
 ```
