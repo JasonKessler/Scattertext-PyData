@@ -1,6 +1,8 @@
 # Scattertext-PyData
 Notebooks for the Seattle PyData 2017 talk on Scattertext
 
+[![Watch the PyData talk here](https://img.youtube.com/vi/H7X9CA2pWKo/0.jpg)](https://www.youtube.com/watch?v=H7X9CA2pWKo)
+
 A guide to using the python package [Scattertext](http://github.com/JasonKessler/scattertext).  If you feel so moved, please star it, fork it, or even contribute!
 
 Check out the introductory presentation [here](https://github.com/JasonKessler/Scattertext-PyData/raw/master/PyData2017Kessler.pptx).
