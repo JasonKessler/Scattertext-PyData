@@ -5,6 +5,9 @@ A guide to using the python package [Scattertext](http://github.com/JasonKessler
 
 Check out the introductory presentation [here](https://github.com/JasonKessler/Scattertext-PyData/raw/master/PyData2017Kessler.pptx).
 
+# Video
+[![Watch the PyData talk here](https://raw.githubusercontent.com/JasonKessler/jasonkessler.github.io/master/scattertext_youtube.png)](https://www.youtube.com/watch?v=H7X9CA2pWKo)
+
 # Using the notebooks
 The notebooks look best in Chrome.
 
